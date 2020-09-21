@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to xj github page
 
 You can use the [editor on GitHub](https://github.com/xujunbupt/xujunbupt.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -18,10 +18,7 @@ Syntax highlighted code block
 - Bulleted
 - List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Hello everyone
 
 [Link](url) and ![Image](src)
 ```
